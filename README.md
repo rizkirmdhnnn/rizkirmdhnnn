@@ -8,11 +8,11 @@ A **Backend Engineer** based in Yogyakarta 🇮🇩 — currently freelancing wh
 
 ### 🧰 What I work with
 
-**Languages** — Go · TypeScript · Python
-**Web** — Fiber · Gin · Next.js
-**Data** — PostgreSQL · SQLite · Redis
-**Infra** — Docker · Cloudflare · Linux
-**Daily** — Zed · Git · macOS
+- **Languages:** Go, TypeScript, Python
+- **Web:** Fiber, Gin, Next.js
+- **Data:** PostgreSQL, SQLite, Redis
+- **Infra:** Docker, Cloudflare, Linux
+- **Daily:** Zed, Git, macOS
 
 ### 🧪 Currently into
 
